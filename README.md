@@ -20,7 +20,7 @@ An end-to-end **Streamlit-based ML application** that allows users to upload dat
 ### 🌟 [NLP Super Application](https://github.com/SHAIK-07/NLP-Super-APP)  
 An **NLP-focused application** featuring various text processing tasks like sentiment analysis, emotion detection, and summarization, powered by Hugging Face Transformers.  
 
-### 🎬 [Movie Recommendation System](https://github.com/SHAIK-07/Movie-Recommendation)  
+### 🎬 [Movie Recommendation System](https://github.com/SHAIK-07/movie-recommendation-/blob/main/README.md)  
 A **personalized movie recommendation system** using collaborative filtering and content-based algorithms, offering suggestions based on user preferences and movie data.  
  
 
