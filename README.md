@@ -31,7 +31,9 @@ For more details on all my projects, please visit my [Portfolio](https://shaik-0
 ## 🔗 Connect With Me  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shaik-hidaythulla/)  
 - 🖥️ [GitHub](https://github.com/SHAIK-07)  
+- 🌍 [Portfolio](https://shaik-07.github.io/Portfolio/)  
 - ✉️ Email: shaikhidaythulla07@gmail.com  
+
 
 ---
 
