@@ -13,11 +13,18 @@ Aspiring **Data Scientist** and **NLP Enthusiast** with a passion for building i
 ---
 
 ## 📈 My Projects  
-### 🌟 [NLP Super Application](https://github.com/SHAIK-07/NLP-Super-Application)  
-An end-to-end **Streamlit-based NLP application** featuring tasks like sentiment analysis, text summarization, emotion detection, and more, powered by Hugging Face Transformers.  
 
-### 📊 Data Analysis and Dashboard Development  
-Analyzed **user engagement metrics** for the "Infy Me" app and designed **interactive dashboards** to monitor app performance.  
+### 🌟 [ML Super Application](https://github.com/SHAIK-07/ML_SUPER_APP)  
+An end-to-end **Streamlit-based ML application** that allows users to upload data, perform analysis, train models, and generate predictions with ease.  
+
+### 🌟 [NLP Super Application](https://github.com/SHAIK-07/NLP-Super-APP)  
+An **NLP-focused application** featuring various text processing tasks like sentiment analysis, emotion detection, and summarization, powered by Hugging Face Transformers.  
+
+### 🎬 [Movie Recommendation System](https://github.com/SHAIK-07/Movie-Recommendation)  
+A **personalized movie recommendation system** using collaborative filtering and content-based algorithms, offering suggestions based on user preferences and movie data.  
+ 
+
+For more details on all my projects, please visit my [Portfolio](https://shaik-07.github.io/Portfolio/).
 
 ---
 
