@@ -4,7 +4,7 @@ Aspiring **Data Scientist** and **NLP Enthusiast** with a passion for building i
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education**: B.E in Electrical and Electronics Engineering (EEE)  
+- 🎓 **Education**: B.Tech in Electrical and Electronics Engineering (EEE)  
 - 💻 **Current Role**: Machine Learning Engineer at Infosys Pvt Ltd  
 - 🛠 **Skills**: Python, Machine Learning, Deep Learning, NLP, SQL, Power BI, Dashboard Design, and more  
 - 🌱 **Currently Learning**: Advanced NLP with Transformers and Time Series Analysis  
