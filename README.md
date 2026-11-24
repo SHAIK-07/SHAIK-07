@@ -32,10 +32,10 @@
  
 ## 📈 Featured Projects
  
-### ⚡ [CodePulse](https://github.com/TestAccount-04/codepulse)
+### ⚡ [CodePulse](https://github.com/SHAIK-07/codepulse)
 A local-first, open-source code change intelligence platform for AI coding agents. It maps code changes and shows their blast-radius impact using Tree-sitter parsing, NetworkX dependency graphs, live React Flow visualization over WebSockets, and a VS Code extension.
  
-### 📊 [Stocktics](https://shaik-07.github.io/Portfolio/assets/stocktics.apk)
+### 📊 [Stocktics](https://github.com/SHAIK-07/stocktics)
 A stock research and forecasting app for Indian (NSE/BSE) and US equities, with forensic accounting checks, interactive DCF valuation, and XGBoost/LSTM models validated with walk-forward backtesting.
  
 ### 🤖 [Ask-Repo](https://github.com/SHAIK-07/Ask-Repo)
